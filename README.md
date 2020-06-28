@@ -40,7 +40,7 @@ On our `#js-crash-course` channel you will be able to ask questions, get support
 
 [Visual Studio Code](https://code.visualstudio.com/) is the IDE (Integrated Development Environment) we will use during the course. In simpler words, is the tool that we'll use to write code.
 
-[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) is an extension for VS Code that enables real-time collaboration between developers. We will use this extension to code together. We will share a session for coding with a shared debugging and running consoles. Anyone can take control and type code, others can follow their cursor.
+[Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) is an extension for VS Code that enables real-time collaboration between developers. We will use this extension to code together. We will share a session for coding with a shared debugging and running consoles. Anyone can take control and type code, others can follow their cursor. Note that this extension pack also provides audio and text chat on top of Visual Studio Live Share.
 
 ## Terminal
 
