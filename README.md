@@ -1,6 +1,6 @@
-# JavaScript Crash Course &nbsp;<img src="https://raw.githubusercontent.com/WTMBerlin/WTM-Website/master/img/favicons/favicon-32x32.png" alt="wtm-logo" width="30"/>&nbsp; Welcome Guide
+# Coyotiv &nbsp;<img src="https://avatars2.githubusercontent.com/u/63822051?s=200&v=4" alt="coyotiv-logo" width="30"/>
 
-- [Intro](#intro)
+- [Welcome](#welcome)
 - [Chrome](#chrome)
 - [Slack](#slack)
 - [Visual Studio Code](#visual-studio-code)
@@ -11,15 +11,14 @@
 - [Course Material](#course-material)
 - [Lifetime Learning](#lifetime-learning)
 
-## Intro
+## Welcome
 
-First of all, welcome to the 3rd Edition of our JavaScript Crash Course! This is going to be a challenging but exciting journey for getting started in the programming world.
+First of all, welcome to Coyotiv Community! 
+TODO: Here comes more information about us, our aim - maybe code of conduct link.
+TODO: another title for diversity, scholarships, website links. blog link etc etc. quick link to slack ?
 
-In this guide we will go through all the steps and tools you will need to get ready for the classes. Please, make sure that you have all the tools installed and ready to go before starting the course.
 
-> You might feel a bit overwhelmed sometimes, especially if it is the first time you are hearing about some of these tools and concepts. Please bear with us! :bear: Just try to get the main concept, and contact us with any doubts or problems you encounter during the process (later we will explain how to get in touch with us during the course).
-
-We will provide information about tools for macOS and Windows in this guide. If you use another systems like Linux, and you don't find the download links or enough information, please get in touch with us.
+We would like to share tools we work with.
 
 ## Chrome
 
@@ -29,9 +28,9 @@ We will provide information about tools for macOS and Windows in this guide. If 
 
 [Slack](https://slack.com/intl/en-de/) is the messaging tool that we use to communicate during the course:  [macOS Download](https://slack.com/intl/en-de/downloads/mac) | [Windows download](https://slack.com/intl/en-de/downloads/windows).
 
-Important :speaker:: Get your personal invite to our WTM slack workspace by typing your email [here](https://slack.wtmberlin.com/).
+Important :speaker:: Get your personal invite to our Coyotiv Community slack workspace by typing your email [here](coyotiv-community.slack.com).
 
-On our `#js-crash-course` channel you will be able to ask questions, get support and share the link of your homework so we can review it and give you feedback. If you cannot see it on the left menu of the slack app under **Channels**, you can search for it after clicking on the title.
+On our `#general` channel you will be able to ask questions, get support and share the link of your code so we can review it and give you feedback. If you cannot see it on the left menu of the slack app under **Channels**, you can search for it after clicking on the title.
 
 ## Visual Studio Code
 
@@ -59,9 +58,6 @@ We recommend you to go through [this guide](https://towardsdatascience.com/getti
 :raising_hand: Feel free to check our [short intro](https://www.youtube.com/watch?v=NHwiSlz4Bi4&list=PLNBb8OktVDKvAbiQIeQqSo0YFYtn3wLAI&index=2&t=4s) for start getting familiarized with Git.
 
 Now is time to prove your git learnings playing a little! :point_right: [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
-
-#### :innocent: This is the basic set up you will need for the first lesson. Continue to get the tools for the rest of the course.
-
 
 ## Node.js
 
@@ -97,7 +93,7 @@ After you installed your Node.js on your machine (Windows, macOS or Linux), chec
 ```
 node -v
 ```
-If you receive the version number (e.g: `v10.16.3`), everything is ok. If not, try the previous steps again or ask on the #js-crash-course channel for help.
+If you receive the version number (e.g: `v10.16.3`), everything is ok. If not, try the previous steps again or ask on the #general channel for help.
 
 ## Problem solving
 
