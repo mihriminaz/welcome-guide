@@ -1,6 +1,8 @@
 # Coyotiv &nbsp;<img src="https://avatars2.githubusercontent.com/u/63822051?s=200&v=4" alt="coyotiv-logo" width="30"/>
 
 - [Welcome](#welcome)
+- [Community](#community)
+- [Tools - Tech Stack](#tools-tech-stack)
 - [Chrome](#chrome)
 - [Slack](#slack)
 - [Visual Studio Code](#visual-studio-code)
@@ -14,10 +16,22 @@
 ## Welcome
 
 First of all, welcome to Coyotiv Community! 
-TODO: Here comes more information about us, our aim - maybe code of conduct link.
-TODO: another title for diversity, scholarships, website links. blog link etc etc. quick link to slack ?
+Bootcamps are outdated. Coyotiv School of Software Engineering is the next generation, remote software engineering education designed to make you a first-class software engineer from scratch in 2020 and beyond.
 
+Here is our [website](https://www.coyotiv.com/)
+Join us on [Slack](coyotiv-community.slack.com)
 
+## Community
+
+We do what we do for the people. We embrace diversity. We believe that we can only contribute positively to the world by building up and supporting communities. We thrive on human connections and we believe in the power of the community.
+
+The most recent of our engagements is with Women Techmakers Berlin. We designed and executed a comprehensive JavaScript Crash Course over the course of 3 years and helped hundreds of women become software engineers. The best part is, all of our courses with Women Techmakers Berlin are online and for free.
+
+And we bring all of this experience to the table. Now is your chance to join Coyotiv for an intensive, full-time, 9-week course, and get personal support to kickstart your tech career.
+
+Read more on our [blog](https://www.coyotiv.com/blog/posts/diversity-scholarships)
+
+## Tools - Tech Stack
 We would like to share tools we work with.
 
 ## Chrome
