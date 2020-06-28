@@ -9,6 +9,7 @@
 - [Node.js](#nodejs)
 - [Problem Solving](#problem-solving)
 - [Course Material](#mongodb-and-mongo-hub)
+- [Lifetime Learning](#lifetime-learning)
 
 ## Intro
 
@@ -115,7 +116,7 @@ If you are practising at home, and after researching you are stuck on a problem 
 
 Before the course please ensure you follow our [tool setup guide](course/material.md) and get ready :) 
 
-## Self-Learning Material
+## Lifetime Learning
 
 The most important notion we want to grow within our community and during the bootcamp is Lifetime Learning.
 We curated some nice tutorial/documentation/websites for you, we believe they are the best ways existing to learn for some topics. Please check them [here](learning/material.md).
