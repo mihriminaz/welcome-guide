@@ -8,7 +8,7 @@
 - [Git and Github](#git-and-github)
 - [Node.js](#nodejs)
 - [Problem Solving](#problem-solving)
-- [Course Material](#mongodb-and-mongo-hub)
+- [Course Material](#course-material)
 - [Lifetime Learning](#lifetime-learning)
 
 ## Intro
