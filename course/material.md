@@ -123,7 +123,7 @@ Please also create a free Heroku account before coming to the class. Here you ca
 
 - [x] Read the Welcome Guide
 - [x] Chrome
-- [x] Slack and join #js-crash-course
+- [x] Slack and join #coyotiv-community
 - [x] Terminal basic learning
 - [x] Git and Github setup
 - [x] Node.js
