@@ -40,6 +40,8 @@ On our `#js-crash-course` channel you will be able to ask questions, get support
 
 [Visual Studio Code](https://code.visualstudio.com/) is the IDE (Integrated Development Environment) we will use during the course. In simpler words, is the tool that we'll use to write code.
 
+[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) is an extension for VS Code that enables real-time collaboration between developers. We will use this extension to code together. We will share a session for coding with a shared debugging and running consoles. Anyone can take control and type code, others can follow their cursor.
+
 ## Terminal
 
 **Terminal**, also known as command line or console, allows us to accomplish and automate tasks on a computer without the use of a GUI or [graphical user interface](https://www.computerhope.com/jargon/g/gui.htm). Even if many tasks can be done by interacting with the GUI (for example deleting or creating folders), there are some actions which are easier and faster to perform through the terminal, especially when working with Git (which we explore in our next point).
