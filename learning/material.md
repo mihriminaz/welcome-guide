@@ -11,6 +11,9 @@ Here is a curated list of self learning materials:
 30 projects for 30 days challenge: 
 https://javascript30.com
 
+Code Academy:
+https://www.codecademy.com/courses/introduction-to-javascript
+
 Katas for improving your problem-solving skills:
 https://www.codewars.com
 
