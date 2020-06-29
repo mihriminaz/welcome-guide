@@ -19,7 +19,7 @@ First of all, welcome to Coyotiv Community!
 Bootcamps are outdated. Coyotiv School of Software Engineering is the next generation, remote software engineering education designed to make you a first-class software engineer from scratch in 2020 and beyond.
 
 Here is our [website](https://www.coyotiv.com/)
-Join us on [Slack](coyotiv-community.slack.com)
+Join us on [Slack](https://coyotiv-community.slack.com)
 
 ## Community
 
